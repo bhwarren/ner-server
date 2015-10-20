@@ -10,7 +10,8 @@
     "body-parser": "1.12.2",
     "express": "4.12.3",
     "request": "*",
-    "underscore": "1.8.3"
+    "underscore": "1.8.3",
+    "execSync": "1.0.2"
   },
   "author": "Pranav Herur",
   "license": "ISC",
